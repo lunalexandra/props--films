@@ -1,5 +1,11 @@
-ul {
-  display: flex;
-  list-style-type: none;
+.container {
+    display: block;
 }
 
+.card-body-stars {
+    display: flex;
+    list-style: none;
+}
+div {
+    display: flex;
+}
